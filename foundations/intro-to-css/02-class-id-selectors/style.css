@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+
+.odd {
+    background-color: #ff9ca1;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.showoff {
+    font-size: 24px;
+}
+
+#lame {
+    color: #0000c9;
+    font-size: 36px;
+}
+
+#nice {
+    background-color: #acffb7;
+    font-size: 24px;
+    font-weight: bold;
+}
